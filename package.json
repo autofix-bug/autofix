@@ -2,9 +2,9 @@
   "name": "autofix",
   "version": "0.6.0",
   "description": "Automatically fix all software bugs.",
-  "homepage": "https://github.com/autofix/autofix",
+  "homepage": "https://github.com/autofix-bug/autofix",
   "bugs": {
-    "url": "https://github.com/autofix/autofix/issues"
+    "url": "https://github.com/autofix-bug/autofix/issues"
   },
   "license": "MIT",
   "author": {
@@ -15,7 +15,7 @@
   "main": "autofix.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/autofix/autofix"
+    "url": "https://github.com/autofix-bug/autofix"
   },
   "scripts": {
     "release": "npm version patch && git push origin main --tags",

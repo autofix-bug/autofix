@@ -1,6 +1,6 @@
 # Autofix
 
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-908a85?logo=gitpod)](https://gitpod.io/#https://github.com/autofix/autofix)
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-908a85?logo=gitpod)](https://gitpod.io/#https://github.com/autofix-bug/autofix)
 [![NPM version](https://img.shields.io/npm/v/autofix)](https://www.npmjs.com/package/autofix)
 
 Automatically fix all software bugs.
@@ -41,7 +41,7 @@ autofix https://github.com/nodejs/node --pull-request
 
 ## Try it online
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/autofix/autofix)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/autofix-bug/autofix)
 
 
 ## Try it locally
